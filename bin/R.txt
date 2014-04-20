@@ -237,6 +237,7 @@ int drawable abc_textfield_searchview_right_holo_dark 0x7f020055
 int drawable abc_textfield_searchview_right_holo_light 0x7f020056
 int drawable ic_launcher 0x7f020057
 int id about_button 0x7f05003f
+int id about_content 0x7f05003c
 int id action_bar 0x7f05001c
 int id action_bar_activity_content 0x7f050015
 int id action_bar_container 0x7f05001b
@@ -254,7 +255,6 @@ int id always 0x7f05000b
 int id beginning 0x7f050011
 int id checkbox 0x7f05002d
 int id collapseActionView 0x7f05000d
-int id container 0x7f05003c
 int id continue_button 0x7f05003d
 int id default_activity_button 0x7f050028
 int id dialog 0x7f05000e
@@ -327,7 +327,7 @@ int layout abc_popup_menu_item_layout 0x7f030014
 int layout abc_search_dropdown_item_icons_2line 0x7f030015
 int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
-int layout activity_main 0x7f030018
+int layout about 0x7f030018
 int layout fragment_main 0x7f030019
 int layout support_simple_spinner_dropdown_item 0x7f03001a
 int menu main 0x7f0c0000
@@ -345,6 +345,8 @@ int string abc_searchview_description_voice 0x7f0a0008
 int string abc_shareactionprovider_share_with 0x7f0a000c
 int string abc_shareactionprovider_share_with_application 0x7f0a000b
 int string about_label 0x7f0a0013
+int string about_text 0x7f0a0016
+int string about_title 0x7f0a0015
 int string action_settings 0x7f0a000f
 int string app_name 0x7f0a000d
 int string continue_label 0x7f0a0011
