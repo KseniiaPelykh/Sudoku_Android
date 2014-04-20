@@ -8,6 +8,7 @@
 	<string name="new_game_label">New Game</string>
 	<string name="about_label">About</string>
 	<string name="exit_label">Exit</string>
+	<string name="about_title">About Android Sudoku</string>
 	<string name="about_text">\
 		Sudoku is a logic-based number placement puzzle.
 		Starting with a partially completed 9x9 grid, the
