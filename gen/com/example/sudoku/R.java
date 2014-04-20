@@ -16,6 +16,9 @@ public final class R {
         public static final int abc_slide_out_bottom=0x7f040004;
         public static final int abc_slide_out_top=0x7f040005;
     }
+    public static final class array {
+        public static final int difficulty=0x7f0d0000;
+    }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -1204,8 +1207,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f03001a;
     }
     public static final class menu {
-        public static final int main=0x7f0d0000;
-        public static final int menu=0x7f0d0001;
+        public static final int main=0x7f0e0000;
+        public static final int menu=0x7f0e0001;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1254,14 +1257,18 @@ containing a value of this type.
         public static final int action_settings=0x7f0b000f;
         public static final int app_name=0x7f0b000d;
         public static final int continue_label=0x7f0b0011;
+        public static final int easy_label=0x7f0b001f;
         public static final int exit_label=0x7f0b0014;
+        public static final int hard_label=0x7f0b0021;
         public static final int hello_world=0x7f0b000e;
         public static final int hints_summary=0x7f0b001d;
         public static final int hints_title=0x7f0b001c;
         public static final int main_title=0x7f0b0010;
+        public static final int medium_label=0x7f0b0020;
         public static final int music_summary=0x7f0b001b;
         public static final int music_title=0x7f0b001a;
         public static final int new_game_label=0x7f0b0012;
+        public static final int new_game_title=0x7f0b001e;
         public static final int settings_label=0x7f0b0017;
         public static final int settings_shortcut=0x7f0b0019;
         public static final int settings_title=0x7f0b0018;
