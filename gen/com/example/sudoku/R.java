@@ -15,6 +15,8 @@ public final class R {
         public static final int abc_slide_in_top=0x7f040003;
         public static final int abc_slide_out_bottom=0x7f040004;
         public static final int abc_slide_out_top=0x7f040005;
+        public static final int cycle_7=0x7f040006;
+        public static final int shake=0x7f040007;
     }
     public static final class array {
         public static final int difficulty=0x7f0d0000;
@@ -861,11 +863,20 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f070002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f080004;
+        public static final int abc_search_url_text_holo=0x7f08000d;
         public static final int abc_search_url_text_normal=0x7f080000;
         public static final int abc_search_url_text_pressed=0x7f080002;
         public static final int abc_search_url_text_selected=0x7f080001;
         public static final int background=0x7f080003;
+        public static final int puzzle_background=0x7f080004;
+        public static final int puzzle_dark=0x7f080007;
+        public static final int puzzle_foreground=0x7f080008;
+        public static final int puzzle_hilite=0x7f080005;
+        public static final int puzzle_hint_0=0x7f080009;
+        public static final int puzzle_hint_1=0x7f08000a;
+        public static final int puzzle_hint_2=0x7f08000b;
+        public static final int puzzle_light=0x7f080006;
+        public static final int puzzle_selected=0x7f08000c;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -1097,7 +1108,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f060016;
         public static final int action_menu_presenter=0x7f060017;
         public static final int action_mode_close_button=0x7f060024;
-        public static final int action_settings=0x7f060041;
+        public static final int action_settings=0x7f06004b;
         public static final int activity_chooser_view_content=0x7f060025;
         public static final int always=0x7f06000b;
         public static final int beginning=0x7f060011;
@@ -1118,6 +1129,16 @@ containing a value of this type.
         public static final int icon=0x7f06002a;
         public static final int ifRoom=0x7f06000a;
         public static final int image=0x7f060027;
+        public static final int keypad=0x7f060041;
+        public static final int keypad_1=0x7f060042;
+        public static final int keypad_2=0x7f060043;
+        public static final int keypad_3=0x7f060044;
+        public static final int keypad_4=0x7f060045;
+        public static final int keypad_5=0x7f060046;
+        public static final int keypad_6=0x7f060047;
+        public static final int keypad_7=0x7f060048;
+        public static final int keypad_8=0x7f060049;
+        public static final int keypad_9=0x7f06004a;
         public static final int listMode=0x7f060001;
         public static final int list_item=0x7f060029;
         public static final int middle=0x7f060012;
@@ -1138,7 +1159,7 @@ containing a value of this type.
         public static final int search_plate=0x7f060036;
         public static final int search_src_text=0x7f060037;
         public static final int search_voice_btn=0x7f06003b;
-        public static final int settings=0x7f060042;
+        public static final int settings=0x7f06004c;
         public static final int shortcut=0x7f06002e;
         public static final int showCustom=0x7f060007;
         public static final int showHome=0x7f060004;
@@ -1204,7 +1225,8 @@ containing a value of this type.
         public static final int abc_simple_decor=0x7f030017;
         public static final int about=0x7f030018;
         public static final int fragment_main=0x7f030019;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
+        public static final int keypad=0x7f03001a;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
     }
     public static final class menu {
         public static final int main=0x7f0e0000;
@@ -1259,16 +1281,19 @@ containing a value of this type.
         public static final int continue_label=0x7f0b0011;
         public static final int easy_label=0x7f0b001f;
         public static final int exit_label=0x7f0b0014;
+        public static final int game_title=0x7f0b0022;
         public static final int hard_label=0x7f0b0021;
         public static final int hello_world=0x7f0b000e;
         public static final int hints_summary=0x7f0b001d;
         public static final int hints_title=0x7f0b001c;
+        public static final int keypad_title=0x7f0b0024;
         public static final int main_title=0x7f0b0010;
         public static final int medium_label=0x7f0b0020;
         public static final int music_summary=0x7f0b001b;
         public static final int music_title=0x7f0b001a;
         public static final int new_game_label=0x7f0b0012;
         public static final int new_game_title=0x7f0b001e;
+        public static final int no_moves_label=0x7f0b0023;
         public static final int settings_label=0x7f0b0017;
         public static final int settings_shortcut=0x7f0b0019;
         public static final int settings_title=0x7f0b0018;
